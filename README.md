@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5558892.svg)](https://doi.org/10.5281/zenodo.5558892)
+
 # CirGuidanceRadiomics
 Scripts to compute the radiomics features and fit the machine learning models as presented in the paper "Optimization of preoperative lymph node staging in patients with muscle-invasive bladder cancer using radiomics on computed tomography." by M. P. A. Starmans et al. 2021.
 
@@ -11,7 +13,7 @@ This package is covered by the open source [APACHE 2.0 License](APACHE-LICENSE-2
 When using this code, please cite this repository and the corresponding paper
 as following:
 
-``Martijn P.A. Starmans. CirGuidanceRadiomics. Zenodo (2021). Available from: https://github.com/MStarmans91/CirGuidanceRadiomics.``
+``Martijn P.A. Starmans. CirGuidanceRadiomics. Zenodo (2021). Available from: https://github.com/MStarmans91/CirGuidanceRadiomics, DOI: https://doi.org/10.5281/zenodo.5558892.``
 
 ## Installation
 For both the feature extraction and model optimization, WORC, version 3.5.0,
